@@ -9,6 +9,12 @@ trends in the gaming industry by genre, platform, publisher, and time. The goal
 was to practice real-world data cleaning and analysis skills while answering
 specific, business-relevant questions.
 
+## Data Cleaning
+- Removed 2 fully blank trailing rows
+- Identified and noted missing `Year` values (minor % of dataset)
+- Verified no duplicate records
+- View the full interactive analysis with pivot tables here: https://docs.google.com/spreadsheets/d/1LhLwS_UesoB3YjvDRzxfiICdKF4E3WPMokzauuf_Cqw/edit?usp=sharing
+
 ## 1. Which genre had the highest total global sales?
 Using a pivot table, I found that **Action games led all genres with 8,920.44
 million** in global sales. This matters because it shows publishers and
