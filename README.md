@@ -1,6 +1,6 @@
 # Mariah Johnson — Data Analytics Portfolio
 
-Hi! I'm Mariah, a data analyst in progress — currently completing the Google Data Analytics Professional Certificate while building hands-on projects to practice SQL, Python, Tableau, spreadsheet formulas, and data cleaning on real-world datasets.
+Hi! I'm Mariah, a data analyst in progress — recently completed the Google Data Analytics Professional Certificate while building hands-on projects to practice SQL, Python, Tableau, spreadsheet formulas, and data cleaning on real-world datasets.
 
 📧 [mariahjohnson9393@gmail.com](mailto:mariahjohnson9393@gmail.com)
 
