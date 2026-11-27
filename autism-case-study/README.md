@@ -1,6 +1,6 @@
 # Understanding the Autism Spectrum Through Data
 
-![Dashboard](Autism Case Study(chart).pdf)
+![Dashboard](autismcasestudychart.pdf)
 
 A case study using public data to show that autism presents along a spectrum, who is represented in screening data, and how identification has changed over time. Built with Python (pandas) and Tableau.
 
